@@ -4,8 +4,8 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using Eparcial2.Models;
 using Eparcial2.Data;
+using Eparcial2.Models;
 
 namespace parcial2.Controllers
 {
