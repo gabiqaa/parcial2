@@ -1,6 +1,6 @@
 ﻿{
   "ConnectionStrings": {
-    "DefaultConnection": "Server=tcp:examenparcialsvr.database.windows.net,1433;Initial Catalog=Parcial2DB;Persist Security Info=False;User ID=David;Password=123456@a;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+    "DefaultConnection": "Server=tcp:examenparcialsvr.database.windows.net,1433;Initial Catalog=EParcial2DB;Persist Security Info=False;User ID=David;Password=123456@a;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
   },
   "Jwt": {
     "Key": "Secret_Password"
